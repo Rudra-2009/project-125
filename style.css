@@ -1,0 +1,24 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px gray;
+}
+.paragraph{
+    font-size: 15px;
+    color: black;
+}
+.copyright_footer{
+    position: fixed;
+    background-color:darkseagreen;
+    color: black;
+    line-height:3 ;
+    width:100%;
+    text-align: center;
+    bottom:0;
+}
+canvas{
+    border: 5px solid white;
+    border-radius:15px;
+    box-shadow: 5px 5px 5px gray;
+}
